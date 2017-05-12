@@ -1,2 +1,3 @@
 info:
 	|--master
+		|- branch ss
