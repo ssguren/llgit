@@ -1,5 +1,5 @@
 info:
 	|--master
 		|- branch ss
-now i need to do the bug,so i want to save the workspace!
+now i need to take the bug,so i save the workspace!
 it is over!
